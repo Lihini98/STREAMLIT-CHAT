@@ -1,2 +1,2 @@
 # STREAMLIT-CHAT
-# a simple chatbot developed in python using streamlit, langchain and openAI
+# A simple chatbot developed in Python using Streamlit, langchain and aopenai
